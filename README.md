@@ -40,7 +40,7 @@ Provide links to the front-end and back-end code repositories for further review
 ### Conclusion:
 The RandomForestClassifier, with optimized hyperparameters, achieved the best performance for predicting cardiovascular disease risk. Although improvements were modest after optimization, the RandomForest model consistently outperformed other algorithms based on F1 score and AUC. Future enhancements could involve using ensemble methods or deep learning techniques for potentially better performance. The project provided valuable insights into model building, feature selection, and the application of machine learning techniques in healthcare.
 
-## Supervised Learning Notebook: Unsupervised Learning Techniques for Clustering and Dimensionality Reduction
+## Supervised Learning Notebook: Clustering and Dimensionality Reduction
 
 ### Use Case:
 This notebook focuses on the application of unsupervised learning techniques, specifically clustering and dimensionality reduction, to the “Forest Cover Type Dataset.” The goal is to explore and analyze data without predefined labels, uncovering intrinsic patterns and structures within the dataset.
